@@ -1,5 +1,5 @@
 
-// feature 1
+// Feature 1
 
 function App() {
   return (
