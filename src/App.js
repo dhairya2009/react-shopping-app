@@ -1,6 +1,7 @@
 import data from"./data.json";
 
-function App() {
+class App extends React.components{
+render () {
   return (
     <div className="grid-container">
      <header>
@@ -14,6 +15,7 @@ function App() {
      </footer>
     </div>
   );
+}
 }
 
 export default App;
